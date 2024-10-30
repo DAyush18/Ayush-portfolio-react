@@ -16,7 +16,7 @@ function Hero() {
        download
        className='flex items-center justify-center rounded-xl bg-lime-300 p-2 px-3 font-sans font-medium text-black hover:bg-lime-400 '
        >
-        <a href='src\components\ayushresume.pdf' >  <span>  Download Resume.pdf </span></a>
+        <a href='https://drive.google.com/file/d/1CjQiOjMCwzj0d52jFWEAUFa9-qwZ0fmy/view?usp=sharing' >  <span>  Download Resume.pdf </span></a>
        
         <LuImport className='ml-2'/>
 
